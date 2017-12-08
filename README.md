@@ -13,6 +13,6 @@
 5. จะตั้งใจพิมพ์ดีๆ
 
 # ความสามาถของโปรแกรม
->โปรแกรมใช้ดึงภาพจากเว็บไซต์ https://www.toonzaa.com
->run : getimegin doraemon
+> โปรแกรมใช้ดึงภาพจากเว็บไซต์ https://www.toonzaa.com
+> run : getimegin doraemon
 
